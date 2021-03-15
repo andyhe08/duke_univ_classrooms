@@ -12,4 +12,4 @@ To do this, I accessed the Duke Internal API to import all of the class data as 
 #### Results:
 Through this project, I have been able to find and utilize many classrooms that I would have never found normally.  Because of my custom algorithm, I was able to obtain and store this information in a user-friendly manner. This has allowed me to be able leave my dorm and be certain that I will have somewhere to go study. (in accordance to COVID guidelines, of course)
 
-*Note* access token is ommited, as well as precise results of code for Duke privacy
+***Note:*** access token is ommited, as well as precise results of code for Duke privacy
